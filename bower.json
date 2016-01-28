@@ -1,0 +1,19 @@
+{
+  "name": "bdfinanse",
+  "description": "website",
+  "main": "index.html",
+  "authors": [
+    "railsbeginner <bartosz.dyja@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.9",
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0"
+  }
+}
